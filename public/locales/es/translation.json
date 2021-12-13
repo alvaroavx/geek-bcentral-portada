@@ -1,0 +1,44 @@
+{
+  "principal": {
+    "titulo": "Menú Principal",
+    "repositorio": "Repositorio",
+    "repositorioDigital": "Repositorio Digital",
+    "bancoCentral": "Banco Central",
+    "bancoCentralChile": "Banco Central de Chile",
+    "contacto": "Contacto"
+  },
+  "sidebar": {
+    "explorar": "Explorar",
+    "colecciones": "Colecciones",
+    "autores": "Autores",
+    "fechaPublicacion": "Fecha de publicación",
+    "temas": "Temas",
+    "titulos": "Títulos",
+    "tiposDocumento": "Tipos de Documento",
+    "actasHistoricas": "Actas Históricas",
+    "actas": "Actas"
+  },
+  "buscador": {
+    "buscar": "Buscar",
+    "busquedaAvanzada": "Búsqueda avanzada"
+  },
+  "colecciones": {
+    "titulo": "Colecciones",
+    "bancoCentral": "Banco Central",
+    "actasDirectorio": "Actas Sesiones del Ex Directorio",
+    "estadisticas": "Estadísticas",
+    "investigacionEconomica": "Investigación Económica",
+    "librosHistoricos": "Libros Históricos",
+    "actasPoliticaMonetaria": "Actas de las Reuniones de Política Monetaria"
+  },
+  "recientes": {
+    "documentosRecientes": "Documentos Recientes",
+    "verMas": "Ver más"
+  },
+  "banner": {
+    "titulo": "Banco Central de Chile (1964-1989) Una Historia Institucional",
+    "parrafo1": "El Banco Central de Chile con el objetivo de dar a conocer su evolución histórica, desde su creación en 1925 hasta su consagración como ente autónomo en 1989, pone a disposición del público el segundo tomo ",
+    "parrafo2": "“Banco Central de Chile (1964-1989) Una Historia Institucional”",
+    "parrafo3": ", que conjuntamente con el primer tomo publicado el año 2009, completan el recorrido histórico de los 64 primeros años del ente emisor. Ambas publicaciones del autor Camilo Carrasco, ex gerente general del Banco entre los años 1994 y 2005, son un valioso aporte para el estudio de la historia económica de Chile y para la comprensión de la importancia que ha tenido el Banco Central como institución a lo largo del tiempo."
+  }
+}

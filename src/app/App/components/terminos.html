@@ -1,0 +1,192 @@
+
+ <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+ <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+ <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+ <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<META http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+	<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+	<meta content="width=device-width,initial-scale=1" name="viewport"/>
+	<link rel="shortcut icon" href="/xmlui/themes/Mirage2/images/favicon.ico"/>
+	<link rel="apple-touch-icon" href="/xmlui/themes/Mirage2/images/apple-touch-icon.png"/>
+	<meta name="Generator" content="DSpace 6.3"/>
+	<link href="/xmlui/themes/Mirage2/styles/main.css" rel="stylesheet"/>
+	<link href="/xmlui/themes/Mirage2/styles/bcentral.css" rel="stylesheet" />
+	<link href="/xmlui/themes/Mirage2/styles/responsive.css" rel="stylesheet"></link>
+	<link type="application/rss+xml" rel="alternate" href="/feed/rss_1.0/site"></link>
+	<link type="application/rss+xml" rel="alternate" href="/feed/rss_2.0/site"></link>
+	<link type="application/atom+xml" rel="alternate" href="/feed/atom_1.0/site"></link>
+	<link type="application/opensearchdescription+xml" rel="search" href="/xmlui/open-search/description.xml" title="DSpace"/>
+	<script src="/xmlui/themes/Mirage2/vendor/modernizr/modernizr.js"> </script>
+	<title>Repositorio Digital Banco Central de Chile</title>
+</head>
+<body>
+	<header>
+		<div id="navportada" role="navigation" class="navbar navbar-default navbar-static-top blue">
+			<div class="container">
+				<div class="navbar-header">
+					<button data-toggle="offcanvas" class="navbar-toggle" type="button">
+						<span class="sr-only">Cambiar navegaci&oacute;n</span><span class="icon-bar"></span>
+						<span class="icon-bar"></span><span class="icon-bar"></span>
+					</button>
+					<div id="brand">
+						<div id="logo">
+							<a class="navbar-brand" href="/"><img src="/xmlui/themes/Mirage2/images/logo.png" class="logo"></img></a>
+						</div>
+						<div id="title">
+							<div class="repositorio">Repositorio Digital</div>
+							<div class="banco">Banco Central de Chile</div>
+						</div>
+					</div>
+					<div class="navbar-header pull-right visible-xs hidden-sm hidden-md hidden-lg">
+						<ul class="nav nav-pills pull-left ">
+							<li>
+								<form method="get" action="/xmlui/login" style="display: inline">
+								<button class="navbar-toggle navbar-link"><b aria-hidden="true" class="visible-xs glyphicon glyphicon-user"></b></button>
+								</form>
+							</li>
+						</ul>
+					</div>
+				</div>
+			<div class="navbar-header pull-right hidden-xs" id="topbar">
+				<ul id="menu-principal">
+					<li><a href="/xmlui/discover">Repositorio</a></li>
+					<li><a href="https://www.bcentral.cl/web/banco-central/inicio">Banco Central</a></li>
+					<li><a href="https://www.bcentral.cl/contacto">Contacto</a></li>
+					<!--
+					<li><a href="/?locale-attribute=en" title="Ver en inglés"><div class="flag en"></div></a></li>
+					<li><a href="/?locale-attribute=es_ES" title="Ver en español"><div class="flag es_ES"></div></a></li>
+					-->
+				</ul>
+				<button type="button" class="navbar-toggle visible-sm" data-toggle="offcanvas">
+					<span class="sr-only">Cambiar navegaci&oacute;n</span><span class="icon-bar"></span>
+					<span class="icon-bar"></span><span class="icon-bar"></span>
+				</button>
+			</div>
+			</div>
+		</div>
+	</header>
+	
+	{/* <!-- BUSCADOR --> */}
+	<div class="trail-wrapper">
+		<div class="container">
+			<div id="buscador">
+				<div class="form_container">
+					<form method="post" class="" id="ds-search-form" action="/xmlui/discover">
+						<fieldset>
+							<div class="input-group">
+								<input placeholder="Buscar" type="text" class="ds-text-field form-control" id="searcher" name="query"/>
+									<span class="input-group-btn"><button title="Ir" class="ds-button-field btn btn-primary" id="btnsearcher">
+										<span aria-hidden="true" class="glyphicon glyphicon-search"></span>
+									</button></span>
+							</div>
+						</fieldset>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div id="midblock">
+			<div id="sidebar-left" class="home only-desktop">
+				<div class="seccion home">
+					<div class="titulo">Explorar</div>
+					<ul class="listado">
+						<li><a href="/xmlui/community-list">Colecciones</a></li>
+						<li><a href="/xmlui/browse?type=author">Autores</a></li>
+						<li><a href="/xmlui/browse?type=dateissued">Fecha de publicación</a></li>
+						<li><a href="/xmlui/browse?type=subject">Temas</a></li>
+						<li><a href="/xmlui/browse?type=title">Títulos</a></li>
+						<li><a href="/xmlui/browse?type=typedoc">Tipos de Documento</a></li>
+					</ul>
+				</div>
+				{/* <!--
+				<div class="seccion home">
+					<div class="titulo">Estadísticas</div>
+					<ul class="listado">
+						<li><a href="/xmlui/browse?type=author&resetOffset=true">Autores más populares</a></li>
+						<li><a href="/xmlui/search-statistics">Términos más buscados</a></li>
+						<li><a href="/xmlui/statistics-home">Publicaciones más populares</a></li>
+						<li><a href="#">Estadísticas del país</a></li>
+					</ul>
+				</div>
+				--> */}
+				<div class="seccion home">
+					<div class="titulo">Actas Históricas</div>
+					<ul class="listado">
+						<li><a href="/xmlui/handle/20.500.12580/499">Actas 1925-1929</a></li>
+						<li><a href="/xmlui/handle/20.500.12580/500">Actas 1930-1932</a></li>
+						<li><a href="/xmlui/handle/20.500.12580/34">Actas 1933-1938</a></li>
+						<li><a href="/xmlui/handle/20.500.12580/33">Actas 1939-1945</a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="midcontent">
+				<h2 class="ds-div-head page-header first-page-header">Términos y Condiciones de Uso</h2>
+				<p>El uso de este sitio web del Banco Central de Chile (en adelante el “Banco”) se regirá por los términos y condiciones establecidos a continuación. Para utilizar el Repositorio Digital del Banco Central de Chile (en adelante el “Repositorio”) y el material digitalizado contenido en él, (en adelante las “Obras”) usted acepta los presentes términos y condiciones de uso de este sitio (en adelante los “Términos y Condiciones”) y su contenido, así como cualquier modificación a ellos que haga el Banco, en cualquier momento.</p>
+				<p>El diseño (textos, logo, fotos y elementos gráficos y/o audiovisuales) como el contenido de esta página incluyendo su forma de presentación son de propiedad exclusiva del Banco Central de Chile, el cual ostenta todos los derechos patrimoniales directamente o a través de acuerdos con terceros. </p>
+				<p>El uso de este Sitio Web y su contenido no implicará en caso alguno la existencia de una asociación o afiliación con el Banco Central de Chile. </p>
+				<p>El Repositorio tiene como propósito fortalecer los mecanismos de divulgación, preservación e intercambio de conocimiento de las publicaciones editadas por el Banco y obras digitalizadas de su Biblioteca, de contenido histórico entre los que se encuentran obras de investigación y análisis económico (en adelante la “Información”).</p>
+				<p>El Usuario podrá acceder a los metadatos (es decir, la información que describe los contenidos del Repositorio), a las Obras y su contenido, disponibles en el Sitio Web, sujeto al cumplimiento de determinados términos de licencia. </p>
+				<p>El Banco conservará los derechos de propiedad intelectual de todas las Obras, salvo que se señale lo contrario. </p>
+				<p>Sin perjuicio del derecho de uso aplicable a cada Obra en particular, el Banco no es necesariamente propietario de todos los contenidos de las Obras publicadas en el Repositorio, por lo cual no garantiza que el uso, por parte del Usuario, de dichos componentes o de las partes de documentos que pertenecen a terceros, no infringe los derechos de éstos, siendo su infracción responsabilidad del Usuario. También, será de responsabilidad del Usuario determinar si debe obtener la autorización del autor del contenido o parte del mismo para utilizarla.</p>
+				<p>Las Obras contenidas en el Repositorio cuentan con una licencia Creative Commons <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/cl/" target="blank">CC-BY- NC-ND</a> o <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cl/" target="blank">CC BY-NC-SA</a>, según se señala a continuación:</p>
+				<p>Los metadatos podrán ser accedidos de manera gratuita y por cualquier persona.  Los metadatos solo podrán ser usados para fines no comerciales, citándose su procedencia y que son de propiedad del Banco Central de Chile. </p>
+				<p>A los metadatos se les aplicará la licencia Creative Commons  BY-NC-ND (Reconocimiento- No Comercial-SinObraDerivada), es decir el Usuario, podrá descargarlos y compartirlos con otras personas, reconociendo la autoría del Banco, pero no podrá modificarlos de ninguna manera ni utilizarlos comercialmente. </p>
+				<p>La Obras de propiedad del Banco, podrán ser accesadas, descargadas, reproducidas y compartidas con otras personas, de manera gratuita, sin fines comerciales y siempre que cite la autoría del Banco. Estas Obras no podrán ser modificadas de ninguna forma. Se les aplicará la licencia Creative Commons BY-NC-ND (Reconocimiento- No Comercial-SinObraDerivada).</p>
+				<p>Las Obras publicadas en el Repositorio que forman parte del patrimonio cultural común, podrán ser utilizadas por cualquier persona, sin costo. Tales Obras podrán ser accesadas, descargadas, reproducidas, compartidas y modificadas (es decir, podrá crearse una obra nueva o derivada).  Su uso deberá ser sin fines comerciales y reconociendo la autoría. La obra derivada deberá estar bajo una licencia en los mismos términos que la original. Se aplicará a dichas obras la licencia Creative Commons BY-NC-ND (Reconocimiento- No Comercial-CompartirIgual).</p>
+				<p>En el caso de adaptaciones que pudieran ser publicadas o difundidas por el Usuario, deberá señalarse que la información de origen pertenece al Banco o a quien corresponda y que la adaptación es propiedad y responsabilidad exclusiva del Usuario. Asimismo, si la información o datos contenidos en este sitio son reproducidos o adaptados por el Usuario  por cualquier medio, el Usuario deberá informar al Banco enviando un correo electrónico a la dirección <a href="mailto:contacto@bcentral.cl">contacto@bcentral.cl</a>.</p>
+				<p>Salvo autorización expresa del Banco o lo establecido en las licencias mencionadas en este sitio web, se prohíbe a los usuarios declarar públicamente o dar a entender que el Banco ha patrocinado, aprobado, respaldado o ha participado en la forma que estos usan o reproduzcan la información.</p>
+				<p>Los derechos de uso de la información contenida en el Sitio Web, descritos precedentemente, se otorgan de manera indefinida y sin costo para el Usuario, reservándose el Banco la facultad de modificar, agregar o limitar, a su juicio exclusivo, la estructura, presentación y sus contenidos, como asimismo la de denegar el acceso al Usuario, ya sea por infracciones a sus disposiciones u otra causa, lo que será calificado por el Banco a su entera discreción.</p>
+				<p>El Usuario acepta utilizar el Sitio Web y la información que el mismo contiene bajo su entera y exclusiva responsabilidad, declarando expresamente conocer y aceptar que el Banco no es responsable ni asume obligación alguna por pérdidas, daños, gastos o cualquier otro perjuicio que pueda tener su origen o causa con motivo del acceso al sitio o  a la información contenida en él, liberando al Banco Central de Chile de cualquier responsabilidad por perjuicios directos, indirectos, previstos e imprevistos, presentes o futuros, o de cualquier especie que el Usuario pueda experimentar el uso del Repositorio y su contenido o que pudieran ocasionarse por estos conceptos. Por ello, antes de proceder al uso del Repositorio y la información que contiene, usted deberá leer atentamente estos Términos y Condiciones de Uso y consultar aquellos establecidos en las licencias Creative Commons que mencionan, las cuales son complementarias de los primeros.  </p>
+				<p>El Usuario se obliga a indemnizar y mantener libre de todo tipo de daño sea éste directo o indirecto, al Banco Central de Chile, como también de cualquier reclamo, acción o demanda que le pueda afectar, incluyendo sin limitación los gastos en que éste incurra por asesoría legal o de cualquier otra naturaleza, que deriven directa o indirectamente del uso del Sitio Web y su contenido o que provengan del incumplimiento de los presentes Términos y Condiciones de uso. </p>
+				<p>Cualquier conflicto, controversia o litigio originado con motivo del acceso y uso del Sitio, o de la Información que el mismo contiene, se resolverá conforme a la legislación de la República de Chile, sometiéndose a la jurisdicción de sus tribunales. El Banco no se hace responsable, ni se obliga bajo ningún concepto, por el contenido de sitios de otras organizaciones con los que pudiesen existir vínculos dentro de este sitio. </p>
+				<p>Si usted tiene alguna consulta respecto de estos Términos y Condiciones de uso, o sobre las condiciones de licencia específicas de cualquier Obra incluida en el Repositorio, escriba al correo electrónico biblioteca <a href="mailto:biblioteca@bcentral.cl">biblioteca@bcentral.cl</a>.</p>
+
+			</div>
+		</div>
+	</div>
+
+	<footer>
+		<div class="container">
+			<div id="footer">
+				<div class="left">
+					<div class="logo"></div>
+					<div class="terminos"><a href="https://repositoriodigital.bcentral.cl/terminos.html" title="Términos y condiciones">Términos y condiciones</a></div>
+				</div>
+				<div class="right">
+					<div class="rrss">
+						<a href="https://www.youtube.com/user/BancoCentralChile" target="_blank"><div class="youtube link"></div></a>
+						<a href="https://www.flickr.com/photos/bancocentraldechile/" target="_blank"><div class="flickr link"></div></a>
+						<a href="https://twitter.com/bcentralchile" target="_blank"><div class="twitter link"></div></a>
+					</div>
+					<div class="info">
+						<div class="brand">Banco Central de Chile</div>
+						<div class="direccion">Agustinas 1180, Santiago, Chile (+56 2) 2670 2000 <a href="/xmlui/login"><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></a></div>
+						<div id="opengeek">
+							<span class="theme-by">Implementado por</span>
+							<a href="https://opengeekservice.cl/" target="_blank" title="OpenGeek">
+								<img src="/xmlui/themes/Mirage2/images/opengeek-white.png" alt="OpenGeek" class="opengeek"/>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	
+	<script type="text/javascript">
+	if(typeof window.publication === 'undefined'){window.publication={};};
+	window.publication.contextPath= '';window.publication.themePath= '/themes/Mirage2/';
+	function GoTo(url) {
+		window.location=url
+	}
+	</script>
+	<script>if(!window.DSpace){window.DSpace={};}window.DSpace.context_path='';window.DSpace.theme_path='/themes/Mirage2/';</script>
+	<script src="/xmlui/themes/Mirage2/scripts/theme.js"> </script>
+	<script src="/xmlui/themes/Mirage2/scripts/bcentral.js"> </script>	
+	</body>
+ 
+)

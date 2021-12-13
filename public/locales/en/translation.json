@@ -1,0 +1,44 @@
+{
+  "principal": {
+    "titulo": "Main Menu",
+    "repositorio": "Repository",
+    "repositorioDigital": "Digital Repository",
+    "bancoCentral": "Central Bank",
+    "bancoCentralChile": "Central Bank of Chile",
+    "contacto": "Contact"
+  },
+  "sidebar": {
+    "explorar": "Explore",
+    "colecciones": "Collections",
+    "autores": "Authors",
+    "fechaPublicacion": "Issued Date",
+    "temas": "Subjects",
+    "titulos": "Titles",
+    "tiposDocumento": "Document Types",
+    "actasHistoricas": "Historical Records",
+    "actas": "Records"
+  },
+  "buscador": {
+    "buscar": "Search",
+    "busquedaAvanzada": "Advanced search"
+  },
+  "colecciones": {
+    "titulo": "Collections",
+    "bancoCentral": "Central Bank",
+    "actasDirectorio": "Records of Sessions of the Ex Directory",
+    "estadisticas": "Statistics",
+    "investigacionEconomica": "Economic Research",
+    "librosHistoricos": "Historical Books",
+    "actasPoliticaMonetaria": "Records of the Monetary Policy Meetings"
+  },
+  "recientes": {
+    "documentosRecientes": "Recent Submissions",
+    "verMas": "View more"
+  },
+  "banner": {
+    "titulo": "Central Bank of Chile (1964-1989) An Institutional History",
+    "parrafo1": "The Central Bank of Chile, with the aim of publicizing its historical evolution, from its creation in 1925 to its consecration as an autonomous entity in 1989, makes the second volume available to the public ",
+    "parrafo2": "“Central Bank of Chile (1964-1989) An Institutional History”",
+    "parrafo3": ", that together with the first volume published in 2009, complete the historical journey of the issuer's first 64 years. Both publications by the author Camilo Carrasco, former general manager of the Bank between 1994 and 2005, are a valuable contribution to the study of the economic history of Chile and to the understanding of the importance that the Central Bank has had as an institution throughout weather."
+  }
+}
