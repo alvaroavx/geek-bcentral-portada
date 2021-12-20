@@ -47,7 +47,7 @@ function Header() {
             <div id="logo" className="transparent">
               <a className="navbar-brand" href="https://repositoriodigital.bcentral.cl/">
                 <img
-                  src="https://repositoriodigital.bcentral.cl/xmlui/themes/Mirage2/images/logo.png"
+                  src="https://repositoriodigital.bcentral.cl/xmlui/themes/Mirage2/images/logo_dorado_vertical.png"
                   alt="Logo Institucional"
                   className="logo"
                 />
@@ -65,8 +65,9 @@ function Header() {
             <li><button id="en" onClick={() => handleClick("en")}><div className="flag en"></div></button></li>
           </ul>
           <ul id="menu-principal">
-            <li><a href="https://repositoriodigital.bcentral.cl/">{t("principal.repositorio")}</a></li>
+            {/*<li><a href="https://repositoriodigital.bcentral.cl/">{t("principal.repositorio")}</a></li>*/}
             <li><a href="https://www.bcentral.cl/web/banco-central/inicio/">{t("principal.bancoCentral")}</a></li>
+            <li><a href="https://portalbiblioteca.bcentral.cl/">{t("principal.biblioteca")}</a></li>
             <li><a href="https://www.bcentral.cl/contacto/">{t("principal.contacto")}</a></li>
             {/* <li><a href="/?locale-attribute=en" title="Ver en inglés"><div className="flag en"></div></a></li>
                 <li><a href="/?locale-attribute=es_ES" title="Ver en español"><div className="flag es_ES"></div></a></li> */}

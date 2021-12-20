@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "https://repositoriodigital.bcentral.cl/portada/static/css/main.935da8a3.css",
+    "main.js": "https://repositoriodigital.bcentral.cl/portada/static/js/main.db32ead6.js",
+    "static/media/Lato-MediumItalic.ttf": "https://repositoriodigital.bcentral.cl/portada/static/media/Lato-MediumItalic.fc50fa7f67a9461dd1b3.ttf",
+    "static/media/Lato-LightItalic.ttf": "https://repositoriodigital.bcentral.cl/portada/static/media/Lato-LightItalic.3e36abbad01dd067ea90.ttf",
+    "static/media/Lato-Regular.ttf": "https://repositoriodigital.bcentral.cl/portada/static/media/Lato-Regular.80c07943565d91b976e1.ttf",
+    "static/media/Lato-Bold.ttf": "https://repositoriodigital.bcentral.cl/portada/static/media/Lato-Bold.bb154e8dcbf157f82e9b.ttf",
+    "static/media/Lato-Light.ttf": "https://repositoriodigital.bcentral.cl/portada/static/media/Lato-Light.d92647541fd5192917e0.ttf",
+    "static/media/Lato-Medium.ttf": "https://repositoriodigital.bcentral.cl/portada/static/media/Lato-Medium.dffae17524847ef31d01.ttf",
+    "static/media/banner_sm.jpg": "https://repositoriodigital.bcentral.cl/portada/static/media/banner_sm.0ccaa9cd6716e2837cfd.jpg",
+    "static/media/OpenSans-Bold.ttf": "https://repositoriodigital.bcentral.cl/portada/static/media/OpenSans-Bold.043771c999cd4d47d9f3.ttf",
+    "static/media/OpenSans-Regular.ttf": "https://repositoriodigital.bcentral.cl/portada/static/media/OpenSans-Regular.17e98b9e5586529b13cc.ttf",
+    "static/media/GoudyOldStyleBold.ttf": "https://repositoriodigital.bcentral.cl/portada/static/media/GoudyOldStyleBold.36b9195e8411fc77d189.ttf",
+    "static/media/GoudyOldStyleRegular.ttf": "https://repositoriodigital.bcentral.cl/portada/static/media/GoudyOldStyleRegular.cc1bb004ecdc12fae8e4.ttf",
+    "static/media/logo_dorado_vertical.png": "https://repositoriodigital.bcentral.cl/portada/static/media/logo_dorado_vertical.994e7a0976c683abc596.png",
+    "static/media/reuniones-politica-monetaria_blue.svg": "https://repositoriodigital.bcentral.cl/portada/static/media/reuniones-politica-monetaria_blue.bf025e2595a2fa6c7b66.svg",
+    "static/media/reuniones-politica-monetaria_white.svg": "https://repositoriodigital.bcentral.cl/portada/static/media/reuniones-politica-monetaria_white.443d3da59fb80589d600.svg",
+    "static/media/investigacion-economica_blue.svg": "https://repositoriodigital.bcentral.cl/portada/static/media/investigacion-economica_blue.cbbc92191390cb6abc48.svg",
+    "static/media/investigacion-economica_white.svg": "https://repositoriodigital.bcentral.cl/portada/static/media/investigacion-economica_white.57b6550fa94d13e745af.svg",
+    "index.html": "https://repositoriodigital.bcentral.cl/portada/index.html",
+    "static/media/banco-central_blue.svg": "https://repositoriodigital.bcentral.cl/portada/static/media/banco-central_blue.f7c2553696939ac0330d.svg",
+    "static/media/banco-central_white.svg": "https://repositoriodigital.bcentral.cl/portada/static/media/banco-central_white.0265d2b90221b9f2ec79.svg",
+    "static/media/actas_blue.svg": "https://repositoriodigital.bcentral.cl/portada/static/media/actas_blue.0dd3f73bbcfc4f60ee36.svg",
+    "static/media/actas_white.svg": "https://repositoriodigital.bcentral.cl/portada/static/media/actas_white.5922d3af810af7ba3d3c.svg",
+    "static/media/libros-historicos_blue.svg": "https://repositoriodigital.bcentral.cl/portada/static/media/libros-historicos_blue.4f70274310c93badcd42.svg",
+    "static/media/libros-historicos_white.svg": "https://repositoriodigital.bcentral.cl/portada/static/media/libros-historicos_white.ae0f8edf4205a21505cb.svg",
+    "static/media/estadisticas_blue.svg": "https://repositoriodigital.bcentral.cl/portada/static/media/estadisticas_blue.52375ba4fc70af8cb297.svg",
+    "static/media/estadisticas_white.svg": "https://repositoriodigital.bcentral.cl/portada/static/media/estadisticas_white.2d0f59e6b8df0a8cbf55.svg",
+    "main.935da8a3.css.map": "https://repositoriodigital.bcentral.cl/portada/static/css/main.935da8a3.css.map",
+    "main.db32ead6.js.map": "https://repositoriodigital.bcentral.cl/portada/static/js/main.db32ead6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.935da8a3.css",
+    "static/js/main.db32ead6.js"
+  ]
+}

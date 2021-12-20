@@ -1,0 +1,45 @@
+{
+  "principal": {
+    "titulo": "Main Menu",
+    "repositorio": "Repository",
+    "repositorioDigital": "Digital Repository",
+    "bancoCentral": "Central Bank",
+    "bancoCentralChile": "Central Bank of Chile",
+    "contacto": "Contact",
+    "biblioteca": "Library"
+  },
+  "sidebar": {
+    "explorar": "Explore",
+    "colecciones": "Collections",
+    "autores": "Authors",
+    "fechaPublicacion": "Issued Date",
+    "temas": "Subjects",
+    "titulos": "Titles",
+    "tiposDocumento": "Document Types",
+    "actasHistoricas": "Historical Records",
+    "actas": "Records"
+  },
+  "buscador": {
+    "buscar": "Search",
+    "busquedaAvanzada": "Advanced search"
+  },
+  "colecciones": {
+    "titulo": "Collections",
+    "bancoCentral": "Central Bank",
+    "actasDirectorio": "Historical Records",
+    "estadisticas": "Statistics",
+    "investigacionEconomica": "Economic Research",
+    "librosHistoricos": "Historical Books",
+    "actasPoliticaMonetaria": "Records of the Monetary Policy Meetings"
+  },
+  "recientes": {
+    "documentosRecientes": "Recent Submissions",
+    "verMas": "View more"
+  },
+  "banner": {
+    "titulo": "Records 1968-1983",
+    "parrafo1": "In its purpose of continuing to strengthen the mechanisms of institutional transparency and accountability to citizens, the Central Bank of Chile makes available to the public a new period of the historical Acts of the Board of Directors from 1968 to 1983. Their publication contributes to the study of the economic history of the country and a better understanding of citizens regarding the Bank's work.",
+    "parrafo2": "",
+    "parrafo3": ""
+  }
+}

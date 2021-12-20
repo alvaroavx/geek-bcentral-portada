@@ -7,12 +7,12 @@ function Banner() {
     <div id="articulos">
       <div className="articulo destacado">
         <div className="imagen">
-          <a href="https://repositoriodigital.bcentral.cl/xmlui/handle/20.500.12580/4084">
+          <a href="https://repositoriodigital.bcentral.cl/xmlui/handle/20.500.12580/6146">
             <div className="contenedor_imagen">
               <div className="fondo_portada"></div>
               <div className="portada">
                 <img
-                  src="https://repositoriodigital.bcentral.cl/xmlui/themes/Mirage2/images/portada/BancoCentraldeChile1964-1989.jpg"
+                  src="https://repositoriodigital.bcentral.cl/xmlui/bitstream/handle/20.500.12580/6365/Acta%20Comit%c3%a9%20Ejecutivo%20N%c2%b0%201.pdf.jpg"
                   alt="Portada de artículo"
                 />
               </div>
@@ -21,7 +21,7 @@ function Banner() {
         </div>
         <div className="informacion">
           <div className="titulo">
-            <a href="https://repositoriodigital.bcentral.cl/xmlui/handle/20.500.12580/4084">
+            <a href="https://repositoriodigital.bcentral.cl/xmlui/handle/20.500.12580/6146">
               {t("banner.titulo")}
             </a>
           </div>

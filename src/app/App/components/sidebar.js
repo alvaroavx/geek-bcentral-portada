@@ -48,6 +48,8 @@ function SideBar() {
           <li><a href="https://repositoriodigital.bcentral.cl/xmlui/handle/20.500.12580/4890">{t("sidebar.actas")} 1946-1952</a></li>
           <li><a href="https://repositoriodigital.bcentral.cl/xmlui/handle/20.500.12580/4891">{t("sidebar.actas")} 1953-1958</a></li>
           <li><a href="https://repositoriodigital.bcentral.cl/xmlui/handle/20.500.12580/4892">{t("sidebar.actas")} 1959-1967</a></li>
+          <li><a href="https://repositoriodigital.bcentral.cl/xmlui/handle/20.500.12580/6146">{t("sidebar.actas")} 1968-1973</a></li>
+          <li><a href="https://repositoriodigital.bcentral.cl/xmlui/handle/20.500.12580/6147">{t("sidebar.actas")} 1974-1983</a></li>
         </ul>
       </div>
     </div>

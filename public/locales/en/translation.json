@@ -5,7 +5,8 @@
     "repositorioDigital": "Digital Repository",
     "bancoCentral": "Central Bank",
     "bancoCentralChile": "Central Bank of Chile",
-    "contacto": "Contact"
+    "contacto": "Contact",
+    "biblioteca": "Library"
   },
   "sidebar": {
     "explorar": "Explore",
@@ -25,7 +26,7 @@
   "colecciones": {
     "titulo": "Collections",
     "bancoCentral": "Central Bank",
-    "actasDirectorio": "Records of Sessions of the Ex Directory",
+    "actasDirectorio": "Historical Records",
     "estadisticas": "Statistics",
     "investigacionEconomica": "Economic Research",
     "librosHistoricos": "Historical Books",
@@ -36,9 +37,9 @@
     "verMas": "View more"
   },
   "banner": {
-    "titulo": "Central Bank of Chile (1964-1989) An Institutional History",
-    "parrafo1": "The Central Bank of Chile, with the aim of publicizing its historical evolution, from its creation in 1925 to its consecration as an autonomous entity in 1989, makes the second volume available to the public ",
-    "parrafo2": "“Central Bank of Chile (1964-1989) An Institutional History”",
-    "parrafo3": ", that together with the first volume published in 2009, complete the historical journey of the issuer's first 64 years. Both publications by the author Camilo Carrasco, former general manager of the Bank between 1994 and 2005, are a valuable contribution to the study of the economic history of Chile and to the understanding of the importance that the Central Bank has had as an institution throughout weather."
+    "titulo": "Records 1968-1983",
+    "parrafo1": "In its purpose of continuing to strengthen the mechanisms of institutional transparency and accountability to citizens, the Central Bank of Chile makes available to the public a new period of the historical Acts of the Board of Directors from 1968 to 1983. Their publication contributes to the study of the economic history of the country and a better understanding of citizens regarding the Bank's work.",
+    "parrafo2": "",
+    "parrafo3": ""
   }
 }

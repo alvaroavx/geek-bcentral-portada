@@ -1,0 +1,45 @@
+{
+  "principal": {
+    "titulo": "Menú Principal",
+    "repositorio": "Repositorio",
+    "repositorioDigital": "Repositorio Digital",
+    "bancoCentral": "Banco Central",
+    "bancoCentralChile": "Banco Central de Chile",
+    "contacto": "Contacto",
+    "biblioteca": "Biblioteca"
+  },
+  "sidebar": {
+    "explorar": "Explorar",
+    "colecciones": "Colecciones",
+    "autores": "Autores",
+    "fechaPublicacion": "Fecha de publicación",
+    "temas": "Temas",
+    "titulos": "Títulos",
+    "tiposDocumento": "Tipos de Documento",
+    "actasHistoricas": "Actas Históricas",
+    "actas": "Actas"
+  },
+  "buscador": {
+    "buscar": "Buscar",
+    "busquedaAvanzada": "Búsqueda avanzada"
+  },
+  "colecciones": {
+    "titulo": "Colecciones",
+    "bancoCentral": "Banco Central",
+    "actasDirectorio": "Actas Históricas",
+    "estadisticas": "Estadísticas",
+    "investigacionEconomica": "Investigación Económica",
+    "librosHistoricos": "Libros Históricos",
+    "actasPoliticaMonetaria": "Actas de las Reuniones de Política Monetaria"
+  },
+  "recientes": {
+    "documentosRecientes": "Documentos Recientes",
+    "verMas": "Ver más"
+  },
+  "banner": {
+    "titulo": "Actas 1968-1983",
+    "parrafo1": "En su propósito de continuar fortaleciendo los mecanismos de transparencia institucional y rendición de cuentas ante la ciudadanía, el Banco Central de Chile pone a disposición del público un nuevo periodo de las Actas históricas del Directorio de 1968 a 1983. Su publicación contribuye al estudio de la historia económica del país y a un mejor entendimiento de la ciudadanía respecto al quehacer del Banco.",
+    "parrafo2": "",
+    "parrafo3": ""
+  }
+}
